@@ -30,8 +30,8 @@ cd Machine-Learning-Group-Project
 ---
 
 ## Contributors
-Skylar Harrison
-Cynthia Kaye
-Curtis Moore
+Skylar Harrison   
+Cynthia Kaye   
+Curtis Moore   
 Rebecca Rickard
 
