@@ -25,3 +25,13 @@ The project includes both **quantitative (ML-based)** and **qualitative (intervi
 ```bash
 git clone https://github.com/forking-shirtballs/Machine-Learning-Group-Project.git
 cd Machine-Learning-Group-Project
+```
+
+---
+
+## Contributors
+Skylar Harrison
+Cynthia Kaye
+Curtis Moore
+Rebecca Rickard
+
