@@ -1,10 +1,10 @@
-**Interview Analysis**
+# **Interview Analysis**
 
 ***Key Takeaway:** Current legacy system frustrates employees due to its lack of transparency and predictability*
 
 **Overview:** The sections titled *Analysis of Specific System Behaviors* and *Employee Sentiments and Desired Improvements* summarize insights from interviews with five ACME Corporation employees about their experiences with the legacy reimbursement system. The *Employee Interview Data* section summaries of each interview, is also included if further information is needed.
 
-**Analysis of Specific System Behaviors**
+## **Analysis of Specific System Behaviors**
 
 1. **Trip Length and Per Diem**  
    * Base Rate: $100 per diem  
@@ -49,7 +49,8 @@
    * spending/day x total mileage  
    * 6 different calculation paths depending on trip characteristics (decision tree?)
 
-**Employee Sentiments and Desired Improvements**
+
+## **Employee Sentiments and Desired Improvements**
 
 | *Need* | *Description* | *Priority* |
 | ----- | ----- | :---: |
@@ -60,7 +61,8 @@
 | Simplicity | Easy to understand inputs and outputs | Medium |
 | Feedback/Clarity | Post-submission breakdown or explanation | Medium |
 
-**Employee Interview Data**
+
+## **Employee Interview Data**
 
 ***Regional Sales Director (Marcus)***
 
