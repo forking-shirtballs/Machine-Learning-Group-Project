@@ -1,7 +1,9 @@
 # Business Logic Hypothesis Document
 
 **Project:** CSCI/DASC 6020 – Machine Learning Team Project
+
 **Date:** October 20, 2025
+
 **Authors:** Skylar, Cynthia, Rebecca, Curtis
 
 ## 1. Introduction
@@ -126,26 +128,4 @@ EDA constraints:
 3. Validate feature relationships through multi-model benchmarking.
 4. Translate statistically supported patterns into concrete business logic rules.
 
-***
-
-This integrated version merges empirical EDA evidence from *ML_DataExploration.ipynb* into every relevant section, strengthening hypothesis credibility and connecting observed data behavior to business rule interpretations.
-<span style="display:none">[^1][^2][^3][^4][^5][^6][^7][^8]</span>
-
-<div align="center">⁂</div>
-
-[^1]: https://www.wordlayouts.com/gl-type/charts/logic-models/
-
-[^2]: https://www.atlassian.com/software/confluence/resources/guides/how-to/business-requirements
-
-[^3]: https://stackoverflow.com/questions/9860032/how-to-interact-between-the-business-logic-and-a-template
-
-[^4]: https://venngage.com/templates/diagrams/business-project-logic-model-2e125fc5-ffaa-4d2b-9414-2d3a117e98cf
-
-[^5]: https://docs.google.com/document/d/1JiNVdKOcG1Ghh0h-oDuA8wwRT9WkpMULd97-M8te1yM/edit
-
-[^6]: https://creately.com/diagram/example/i6l4cjt9/flowchart-forming-hypothesis-classic
-
-[^7]: https://templatelab.com/logic-model/
-
-[^8]: https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development/main
 
