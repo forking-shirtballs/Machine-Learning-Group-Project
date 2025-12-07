@@ -4,7 +4,7 @@
 
 **Date:** October 20, 2025
 
-**Authors:** Skylar, Cynthia, Rebecca, Curtis
+**Authors:** Skylar Harrison, Cynthia Kaye, Rebecca Rickard, Curtis Moore
 
 ## 1. Introduction
 
