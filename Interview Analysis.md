@@ -1,5 +1,12 @@
 # **Interview Analysis**
 
+Project: CSCI/DASC 6020 – Machine Learning Team Project
+
+Date: October 11, 2025
+
+Authors: Skylar Harrison, Cynthia Kaye, Rebecca Rickard, Curtis Moore
+
+
 ***Key Takeaway:** Current legacy system frustrates employees due to its lack of transparency and predictability*
 
 **Overview:** The sections titled *Analysis of Specific System Behaviors* and *Employee Sentiments and Desired Improvements* summarize insights from interviews with five ACME Corporation employees about their experiences with the legacy reimbursement system. The *Employee Interview Data* section summaries of each interview, is also included if further information is needed.
