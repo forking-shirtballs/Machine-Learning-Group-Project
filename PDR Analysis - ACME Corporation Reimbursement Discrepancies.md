@@ -1,4 +1,9 @@
 # **PDR Analysis \- ACME Corporation Reimbursement Discrepancies**
+Project: CSCI/DASC 6020 – Machine Learning Team Project
+
+Date: October 11, 2025
+
+Authors: Skylar Harrison, Cynthia Kaye, Rebecca Rickard, Curtis Moore
 
 ## **Summary**  
 ACME Corporation is trying to understand why its newly developed reimbursement system produces different results from a legacy system that’s been in use for over 60 years. The original system is a black box—its source code is inaccessible, its logic undocumented, and its outputs often seem inconsistent or illogical. To bridge the gap, our goal is to reverse engineer the legacy system by training a machine learning model that mimics its behavior, including quirks and suspected bugs. Using 1,000 labeled historical cases and employee insights, the model will be tested for accuracy against both public and private datasets to ensure it closely replicates the legacy system’s outputs.
